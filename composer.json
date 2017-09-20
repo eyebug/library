@@ -1,5 +1,5 @@
 {
-    "name": "frank/mylib",
+    "name": "frankli/mylib",
     "description": "My library for Laravel Framework.",
     "keywords": ["framework", "laravel", "customized", "library"],
     "license": "GNU",
