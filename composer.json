@@ -6,7 +6,7 @@
     "type": "library",
     "require": {
         "php": ">=7.0.20",
-        "laravel/framework": "5.5.*",
+        "laravel/framework": "5.5.*"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
